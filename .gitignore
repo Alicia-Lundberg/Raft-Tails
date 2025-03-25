@@ -1,0 +1,14 @@
+# Unity-specifika filer att ignorera
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
+
