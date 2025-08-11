@@ -35,3 +35,6 @@ Du spelar som en räv som möter en kanin i behov av hjälp. För att hjälpa ka
 - Förbättrade animationer och fysik  
 - Eventuellt multiplayer-läge  
 
+## Observera
+Koden som finns uppladdad på GitHub är en tidig och ofullständig version av spelet. På grund av spelets stora storlek kunde vi inte ladda upp hela projektet, så det som finns här representerar endast ett väldigt tidigt utvecklingsstadium.
+
