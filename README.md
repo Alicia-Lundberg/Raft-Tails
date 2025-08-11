@@ -2,6 +2,9 @@
 
 **Raft Tails** är ett VR-spel utvecklat i Unity 6 med Universal Render Pipeline (URP) och SteamVR. I spelet tar du rollen som en räv som hjälper en kanin att ta sig över en flod genom att bygga en flotte.
 
+![Raft Tails Poster](images/Raft-Tails_Poster.png)
+
+
 ## Handling
 
 Du spelar som en räv som möter en kanin i behov av hjälp. För att hjälpa kaninen måste du samla pinnar och bygga en flotte som kan ta kaninen över floden.
